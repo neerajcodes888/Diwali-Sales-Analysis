@@ -33,8 +33,8 @@ The Sales Analysis Python project is built to streamline the process of analyzin
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/sales-analysis-python.git`
-2. Navigate to the project directory: `cd sales-analysis-python`
+1. Clone the repository: `git clone https://github.com/neerajcodes/Sales-Analysis.git`
+2. Navigate to the project directory: `cd Sales-Analysis`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
