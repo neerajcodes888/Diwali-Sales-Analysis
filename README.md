@@ -1,5 +1,6 @@
 # Sales-Analysis
-# Sales Analysis Python
+
+![Sales-Analysis](https://socialify.git.ci/neerajcodes888/Sales-Analysis/image?description=1&descriptionEditable=%20%20An%20open-source%20repository%20for%20sales%20data%20analysis.%20Dive%20into%20insightful%20trends%2C%20metrics%2C%20and%20visualizations%20to%20empower%20data-driven%20decision-making&font=KoHo&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
 
 The Sales Analysis Python project is designed to provide a comprehensive analysis of sales data using the Python programming language. This project aims to assist businesses and individuals in gaining valuable insights into their sales performance, trends, and patterns by processing and visualizing sales data.
 
